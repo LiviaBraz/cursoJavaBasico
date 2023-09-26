@@ -13,8 +13,8 @@ Cada pasta de aula tem as atividades feitas em curso e uma subpasta "Labs", nest
 
   - Primeiro Programa em Java ✅
   - Passando Argumentos para o Programa ✅
-  - Entendendo os Erros 
-  - Introdução a Classes e Objetos 
+  - Entendendo os Erros ✅
+  - Introdução a Classes e Objetos
   
 <br>
 
