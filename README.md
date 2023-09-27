@@ -4,7 +4,7 @@ Plataforma: loiane.training
 
 Este curso é uma introdução abrangente ao mundo da programação Java, ministrado pela renomada instrutora Loiane Groner. Ele é projetado para iniciantes que desejam aprender os conceitos fundamentais da linguagem de programação Java. Conta com conteúdo claro e didático, exemplos práticos e exercícios para reforçar o aprendizado.
 
-Cada pasta de aula tem as atividades feitas em curso e uma subpasta "Labs", nesta, estão exercícios para treinar feitos sem o acompanhamento da instrutora :]
+Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpasta "Labs", nesta, estão exercícios que foram passados para treinar :]
 
 <br>
 <h4 align=center> Este curso é composto por 8 tópicos, listados abaixo: </h4>
@@ -14,7 +14,7 @@ Cada pasta de aula tem as atividades feitas em curso e uma subpasta "Labs", nest
   - Primeiro Programa em Java ✅
   - Passando Argumentos para o Programa ✅
   - Entendendo os Erros ✅
-  - Introdução a Classes e Objetos
+  - Introdução a Classes e Objetos ✅
   
 <br>
 
