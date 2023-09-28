@@ -20,8 +20,8 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 
 <h3> 2 - Programação Básica </h3>
 
-  - Introdução à Variáveis 
-  - Tipos Primitivos 
+  - Introdução à Variáveis ✅
+  - Tipos Primitivos ✅
   - Lendo dados usando a classe Scanner 
   - Operadores 
 
