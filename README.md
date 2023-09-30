@@ -22,7 +22,7 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 
   - Introdução à Variáveis ✅
   - Tipos Primitivos ✅
-  - Lendo dados usando a classe Scanner 
+  - Lendo dados usando a classe Scanner ✅
   - Operadores 
 
 <br>
