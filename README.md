@@ -29,7 +29,7 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 
 <h3> 3 - Controles, Decisões e Loops </h3>
 
-  - Controles de Decisão: IF - ELSE
+  - Controles de Decisão: IF - ELSE ✅
   - Controles de Decisão com Múltipla Escolha: SWITCH
   - Loops - WHILE e DO WHILE
   - Loops - FOR
