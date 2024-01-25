@@ -31,8 +31,8 @@ Cada pasta de aula tem as atividades feitas em curso e algumas possuem uma subpa
 
   - Controles de Decisão: IF - ELSE ✅
   - Controles de Decisão com Múltipla Escolha: SWITCH - CASE ✅
-  - Loops - WHILE e DO WHILE
-  - Loops - FOR
+  - Loops - WHILE e DO WHILE ✅
+  - Loops - FOR ✅
   - Comandos BREAK e CONTINUE
   
 <br>
